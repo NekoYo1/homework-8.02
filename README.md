@@ -46,7 +46,7 @@ pipeline {
         }
     }
 }
-
+```
 ---
 
 ## Задание 3
@@ -56,7 +56,7 @@ pipeline {
 ![Скриншот 2](img/6.png)
 
 
-
+```
 pipeline {
     agent any
     environment {
@@ -106,3 +106,4 @@ pipeline {
         }
     }
 }
+```
