@@ -13,6 +13,12 @@
 
 ## Задание 2
 
+
+![Скриншот 1](img/3.png)  
+![Скриншот 2](img/4.png)
+
+
+
 **Pipeline code:**
 ```groovy
 pipeline {
@@ -43,7 +49,13 @@ pipeline {
 
 ---
 
-### Задание 3
+## Задание 3
+
+
+![Скриншот 1](img/5.png)  
+![Скриншот 2](img/6.png)
+
+
 
 pipeline {
     agent any
